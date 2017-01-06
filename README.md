@@ -1,6 +1,6 @@
 # LinkHay-Application
 LinkHay Application is a hybrid mobile application build on Cordova and Framework7 with API base on PHP<br/>
-DEMO: <a href="http://linkhay.000webhostapp.com">linkhay.000webhostapp.com</a>
+DEMO: <a href="http://linkhay.000webhostapp.com" target="_blank">Conicalhat.net/linkhay</a>
 
 <h2>FEATURED</h2>
 <p>
