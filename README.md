@@ -14,3 +14,8 @@ DEMO: <a href="http://linkhay.000webhostapp.com">linkhay.000webhostapp.com</a>
 </p>
 <p>UI base on Framework7</p>
 <p>API base on PHP cURL</p>
+
+
+<p>Credit to Conicalhat.net if you use this project<p>
+
+<p>MIT license</p>
