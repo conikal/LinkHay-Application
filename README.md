@@ -1,5 +1,5 @@
 # LinkHay-Application
-LinkHay Application is a hybrid mobile application build on Codovar and Framework7 with API base on PHP<br/>
+LinkHay Application is a hybrid mobile application build on Cordova and Framework7 with API base on PHP<br/>
 DEMO: <a href="http://linkhay.000webhostapp.com">linkhay.000webhostapp.com</a>
 
 <h2>FEATURED</h2>
