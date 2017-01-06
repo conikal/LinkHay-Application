@@ -11,6 +11,7 @@ DEMO: <a href="http://linkhay.000webhostapp.com">linkhay.000webhostapp.com</a>
 5. Add comment<br/>
 6. List comments<br/>
 7. Notification<br/>
+8. Submit link
 </p>
 <h2>Install</h2>
 <p>
