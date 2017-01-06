@@ -1,15 +1,15 @@
 # LinkHay-Application
 LinkHay Application is a hybrid mobile application build on Codovar and Framework7 with API base on PHP
 
-<h1>FEATURED<h1>
+<h1>FEATURED</h1>
 <p>
-1. Hot links
-2. New links
-3. Categories
-4. User login
-5. Add comment
-6. List comments
-7. Notification
+1. Hot links<br/>
+2. New links<br/>
+3. Categories<br/>
+4. User login<br/>
+5. Add comment<br/>
+6. List comments<br/>
+7. Notification<br/>
 </p>
-UI base on Framework7
-API base on PHP cURL
+<p>UI base on Framework7</p>
+<p>API base on PHP cURL</p>
