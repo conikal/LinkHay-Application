@@ -17,7 +17,7 @@ DEMO: <a href="http://conicalhat.net/linkhay" target="_blank">conicalhat.net/lin
 <p>
 1. git clone<br/>
 2. move to your project<br/>
-3. to js/main.js<br/>
+3. open js/main.js<br/>
 4. edit site_url variable with your site url<br/>
 </p>
 <h2>Author</h2>
