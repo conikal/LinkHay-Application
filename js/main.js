@@ -325,6 +325,7 @@ $$(document).on('click', '.comments-link', function(){
 });
 
 
+// load comment list
 function loadComments(url, type, total, classes, refresh) {
     $$('.comments-total').text( total );
 
@@ -442,6 +443,8 @@ function loadComments(url, type, total, classes, refresh) {
     });
 }
 
+
+// Notification
 $$('.view-notification').on('click', function(){
     loadNotification('#notification');
 });
@@ -529,7 +532,7 @@ $$(document).on('click', '.read-link', function(){
     var link = $$(this).attr('data-link');
     var title = $$(this).attr('data-title');
     var domain = $$(this).attr('data-domain');
-    $$('#external-url').attr('href', url);
+    $$('#external-url').attr('href', link);
     $$('#reading-title').text(title);
     $$('#reading-content').html('');
     readLink(link, '#reading-content', domain);
@@ -649,7 +652,6 @@ function getGist(e){
         }
     }
 }
-
 
 function buildGistContent(url, classes){
     $$.ajax({
