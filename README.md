@@ -15,8 +15,8 @@ DEMO: <a href="http://conicalhat.net/linkhay" target="_blank">conicalhat.net/lin
 </p>
 <h2>INSTALL</h2>
 <p>
-1. git clone<br/>
-2. move to your project<br/>
+1. git clone https://github.com/conicalhat/LinkHay-Application.git<br/>
+2. move to your project folder<br/>
 3. upload api folder to php server<br/>
 4. open js/main.js<br/>
 5. edit site_url variable with your site url<br/>
