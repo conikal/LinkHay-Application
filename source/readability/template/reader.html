@@ -1,0 +1,16 @@
+<?php include DIR_ROOT . '/template/header.inc.html'; ?>
+<div class="pages navbar-through">
+  <div data-page="about" class="page">
+    <div class="page-content">
+      <div class="content-block-title">Welcome to Framework7</div>
+      <div class="content-block">
+        <div class="content-block-inner">
+            <a title="back to original page"
+                   href="<?php echo strip_tags($request_url); ?>"><?php 
+                   echo mb_convert_encoding($title, 'HTML-ENTITIES', "UTF-8"); ?></a>
+          <?php echo mb_convert_encoding($title, 'HTML-ENTITIES', "UTF-8"); ?>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
