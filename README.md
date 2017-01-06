@@ -21,7 +21,7 @@ DEMO: <a href="http://conicalhat.net/linkhay" target="_blank">conicalhat.net/lin
 4. edit site_url variable with your site url<br/>
 </p>
 <h2>Author</h2>
-<strong>Conical Hat</strong>
+<h3>Conical Hat</h3>
 E-mail: developers@conicalhat.net<br/>
 Website: <a href="http://conicalhat.net" target="_blank">http://conicalhat.net</a><br/>
 <p>UI base on Framework7</p>
