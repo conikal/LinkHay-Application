@@ -17,7 +17,7 @@ DEMO: <a href="http://conicalhat.net/linkhay" target="_blank">conicalhat.net/lin
 <p>
 1. git clone https://github.com/conicalhat/LinkHay-Application.git<br/>
 2. move to your project folder<br/>
-3. upload api folder to php server<br/>
+3. upload api, parse, readability folder to php server<br/>
 4. open js/main.js<br/>
 5. edit site_url variable with your site url<br/>
 6. deploy app by Phonegap or Cordova
