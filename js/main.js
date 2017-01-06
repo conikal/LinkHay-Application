@@ -5,7 +5,7 @@ var myApp = new Framework7();
 var $$ = Dom7;
 
 // Config
-var site_url = 'http://localhost/linkhay/';
+var site_url = 'https://conicalhat.github.io/LinkHay-Application/';
 
 // Add view
 var mainView = myApp.addView('.view-main', {
