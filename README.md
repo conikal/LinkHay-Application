@@ -20,7 +20,8 @@ DEMO: <a href="http://conicalhat.net/linkhay" target="_blank">conicalhat.net/lin
 3. to js/main.js<br/>
 4. edit site_url variable with your site url<br/>
 </p>
-<h2>Conical Hat</h2>
+<h2>Author</h2>
+<strong>Conical Hat</strong>
 E-mail: developers@conicalhat.net<br/>
 Website: <a href="http://conicalhat.net" target="_blank">http://conicalhat.net</a><br/>
 <p>UI base on Framework7</p>
