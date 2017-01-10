@@ -28,6 +28,4 @@ E-mail: developers@conicalhat.net<br/>
 Website: <a href="http://conicalhat.net" target="_blank">http://conicalhat.net</a><br/>
 <p>UI base on Framework7</p>
 <p>API base on PHP cURL</p>
-<p>Credit to Conicalhat.net if you use this project<p>
-
 <p>MIT license</p>
