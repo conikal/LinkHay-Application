@@ -22,11 +22,5 @@ DEMO: <a href="http://conicalhat.net/linkhay" target="_blank">conicalhat.net/lin
 5. edit site_url variable with your site url<br/>
 6. deploy app by Phonegap or Cordova
 </p>
-<h2>Author</h2>
-<h3>Conical Hat</h3>
-E-mail: developers@conicalhat.net<br/>
-Website: <a href="http://conicalhat.net" target="_blank">http://conicalhat.net</a><br/>
-<p>UI base on Framework7</p>
-<p>API base on PHP cURL</p>
 
 <p>MIT license</p>
